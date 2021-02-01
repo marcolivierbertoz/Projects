@@ -1,0 +1,151 @@
+Park_Name,Council_District,LOCATION,ZipCode,Ballfield,Basketball,Benches,Concession,Fountains,Grills,Off_Street_Parking,Pavilions,Picnic_Tables,Playground,Pools,Restrooms,Tennis_Courts,Trash,Walking_Trails,Acres_park
+Frayser Park,7,2907 N. Watkins,38127.0,yes,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,yes,40.54
+Cash Park,6,Ford Rd @ Deerskin Dr,38109.0,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,22.0
+Germanshire Park,2,Germantown Rd. @ Germanshire Rd.,38125.0,no,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,yes,14.0
+LE Brown,6,617 S. Orleans,38126.0,yes,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,6.0
+Booth Park,6,S. Parkway @ Texas,38106.0,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,3.5
+Medal of Honor Park,3,Tchulahoma @  Oak Lake,38118.0,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,20.0
+Westwood Park,6,810 Western Park,38109.0,no,yes,yes,no,no,no,yes,no,no,yes,yes,yes,no,yes,yes,16.2
+Williamson Park,5,292 Williamson,38112.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,4.5
+Crump Park,6,Delaware @ Crump,38106.0,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,4.3
+Robert Church Park,6,Beale St. @ Fourth,38126.0,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,7.68
+Litty Park,1,James Rd. @ ICRR,38127.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,21.0
+Davy Crockett,7,4380 Rangeline,38127.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,290.0
+McFarland Park,4,4955 Cottonwood next to Evans Elem,38118.0,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,no,no,no,11.0
+Cherokee Park,4,Filmore @ Lamar,38114.0,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no,no,yes,15.6
+Spanish War Memorial Park,4,Central @ E. Parkway,38104.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,2.0
+Holmes Park,2,Messick @ Hickory Crest Drive,38119.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,20.0
+University Park,7,University @ Edward Ave,38108.0,yes,no,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,10.0
+Lichterman,2,5992 Quince,38119.0,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,66.02
+Gaisman Park,5,4223 Macon,38122.0,yes,yes,yes,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,yes,24.0
+Pierotti Park,1,3678 Powers Road,38128.0,no,yes,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,25.0
+May Park,2,6415 Quince Rd.,38119.0,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,75.0
+Mississippi River Greenbelt,7,Island Drive @ Auction,38103.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,102.0
+Pine Hill Park,6,973 Alice,38106.0,no,yes,no,no,no,no,yes,no,no,yes,yes,yes,no,no,no,14.76
+Greenlaw Park,7,190 Mill,38105.0,no,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,2.0
+Lincoln Park,4,1363 E. Person                 @ Cincinatti,38106.0,yes,yes,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,34.0
+Linden Park,6,Linden @ Somerville    1047 Linden,38105.0,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,0.85
+Tom Lee Park,6,Riverside @ Beale,38103.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,30.0
+Byrnes Park,1,James Road @ Warford,38128.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,6.0
+Rodney Baber Park,7,2215 James Road,38127.0,yes,no,no,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,77.0
+Glenview Park,4,1141 S. Barksdale,38114.0,yes,yes,yes,no,no,no,yes,yes,yes,yes,no,yes,yes,yes,yes,24.5
+Sherwood Park,4,3480 Rhodes,38111.0,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,6.86
+Brinkley Park,7,Second @ Market,38105.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,1.0
+Marquette Park,5,Park @ Mt. Moriah,38117.0,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no,yes,8.5
+Klondike Park,7,1235 Brown @ Henry,38107.0,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,12.83
+Health Sciences Park,6,Madison @ Dunlap,38103.0,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,8.03
+David Carnes,6,Whitehaven Lane @  Auburn Rd.,38116.0,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no,yes,9.0
+McNeil,6,Texas @ Main,38103.0,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,1.0
+Emerald Park,4,Emerald Street @ Newberry Ave.,38115.0,yes,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,yes,17.0
+Overton Park,5,2080 Poplar,38112.0,no,no,yes,no,yes,no,yes,yes,no,yes,no,yes,no,no,yes,294.3
+Washington Park,7,1972 N. Second,38107.0,no,yes,yes,no,no,no,yes,yes,no,yes,no,no,no,yes,yes,7.8
+Belz Park,6,Shelby @ Fenwood,38109.0,yes,yes,yes,no,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,10.5
+Malone,7,Hastings @ LaGrange,38107.0,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,2.21
+Oakhaven Park,3,3875 Bishop Bridge,38118.0,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,yes,20.0
+Hollywood Park,7,2499 Chelsea,38108.0,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,3.02
+Ashburn-Coppock Park,6,619 S. Riverside,38103.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,2.0
+Dave Wells Park,7,915 Chelsea,38107.0,no,yes,yes,no,yes,no,yes,yes,yes,no,no,yes,no,yes,no,1.5
+Gaston Park,6,1046 S. Third,38106.0,yes,yes,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,8.44
+Charles Davis Park,5,6671 Spottswood,38111.0,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,no,no,no,8.0
+Alonzo Weaver Park,6,730 Mitchell Rd.,38109.0,no,no,yes,no,yes,no,yes,yes,yes,yes,no,no,no,no,yes,37.86
+Rozelle Park,4,Rozelle @ Nelson,38114.0,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,0.92
+Walter Chandler Park,6,Horn Lake @ Raines Rd,38109.0,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,151.8
+Peabody,5,712 Tanglewood,38104.0,no,no,yes,no,yes,no,yes,yes,no,yes,yes,yes,no,no,no,3.38
+Brennan Park,1,Mason @ Oak Grove,38120.0,yes,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,19.0
+Fairley,6,4950 Fairley Road,38109.0,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,17.0
+Hollywood Community Center,7,1560 N. Hollywood,38108.0,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,no,no,no,4.11
+Riverview,6,1981 Kansas,38109.0,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,27.72
+Redbud Park,6,Redbud @ Mitchell,38109.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,6.6
+Hickory Hill Park,3,3910 Ridgeway Rd.,38115.0,no,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,80.0
+Georgian Hills Park,7,3930 Lewier,38127.0,yes,no,yes,no,no,no,yes,yes,no,yes,no,no,no,yes,yes,19.7
+George Alberson Park,7,Whitney @ Baskin,38127.0,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,yes,no,10.0
+Trigg Park,6,1348 Rayburn St.,38106.0,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,yes,no,1.86
+Bethel-Labelle,4,2698 LaRose,38114.0,no,no,yes,no,yes,no,yes,yes,no,yes,no,yes,no,no,no,1.0
+Western Park,6,Western Park Dr. @   Sun Valley Dr,38109.0,yes,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,14.6
+Charjean Park,4,Ketchum & Crosby,38114.0,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,18.0
+Halle Park,3,Mt. Moriah @ Mendenhall,38115.0,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,31.39
+Chickasaw Gardens Park,5,Chickasaw Pkwy.,38111.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,22.0
+Poplar & Highland,5,Poplar @ Highland,38111.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,5.22
+Mud Island Park,7,125 N. Front,38103.0,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,25.0
+Walker Park,6,Rochester @ Jenson,38109.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,4.45
+Edison,7,Madison Ave. @ Danny Thomas,38103.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,1.8
+Bert Ferguson Park,2,8505 Trinity Road,38018.0,yes,yes,no,no,no,no,yes,yes,no,yes,no,yes,yes,no,yes,48.02
+Alcy Warren,4,Alcy Rd. @ Warren,38106.0,yes,yes,no,no,yes,no,no,yes,yes,yes,no,no,no,no,yes,13.0
+Denver Park,7,Tulsa at Bigelow,38112.0,yes,yes,yes,no,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,10.0
+Binghampton Park,5,2606 Everett,38112.0,yes,no,yes,no,no,no,no,no,no,yes,no,no,no,yes,no,3.0
+Winridge Park,3,Ridgeway @ Village Grove Rd,38115.0,no,no,yes,no,yes,no,yes,yes,yes,yes,no,no,no,no,yes,12.47
+Singleton Park,4,3391 Castleman,38118.0,yes,no,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,10.0
+Southside Park,6,612 S. Parkway E.,38106.0,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,no,no,yes,3.43
+Orange Mound Park,4,2430 Carnes,38114.0,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,4.0
+Walker Hall Park,1,,38128.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,81.1
+Winchester Park,7,Lane @ St Jude Place,38105.0,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,8.8
+Polly Williams Park,6,Auburn @ Craft,38116.0,yes,no,yes,no,yes,no,yes,yes,no,yes,no,no,no,yes,yes,17.0
+Fox Meadows,3,3064 Clarke Road,38115.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,160.0
+Chandler Park,4,Walker @ College,38106.0,no,yes,yes,no,no,no,yes,yes,no,yes,no,no,no,yes,yes,3.0
+Bison Cove,6,Levi @ Bison Cove,38109.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,6.1
+Belvedere Triangle,5,,38104.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,0.13
+Memphis Park,6,Front St. @ Court,38103.0,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,3.0
+Whitehaven Park,3,4318 Graceland,38116.0,no,yes,no,no,no,no,yes,yes,no,yes,no,no,yes,no,yes,20.0
+Court Square,6,Main @ Court,38103.0,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,2.0
+Heroes Park,2,4580 Riverdale Rd,38125.0,no,no,yes,no,yes,no,yes,yes,no,yes,no,no,no,yes,yes,20.0
+Price Park,7,Claybrook @ Capital,38107.0,no,yes,yes,no,yes,no,no,no,yes,yes,no,no,no,yes,no,2.5
+Chickasaw Heritage Park,6,Delaware @ DeSoto,38106.0,no,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,no,17.0
+Watkins & Oberle,7,Watkins @ Oberle,38107.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,5.29
+Western Cove Park,6,Weaver Rd. @  Western Park Dr,38109.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,7.2
+New Chicago Park,7,Breedlove @ St. Charles,38107.0,yes,yes,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,8.0
+Flowering Peach Park,3,Clarke @ Flowering Peach,38115.0,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,8.9
+Willingham Park,1,3773 Old Allen Rd.,38128.0,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,20.0
+Lincoln School Park,6,1594 S.Orleans St.,38106.0,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,3.8
+Mooney Park,3,Cromwell @ Cabot,38118.0,yes,no,yes,no,yes,no,yes,no,yes,yes,no,no,no,no,no,17.0
+Douglass Park,7,1616 Ash,38108.0,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,43.0
+Audubon Park,5,4145 Southern Ave.,38117.0,no,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,yes,219.0
+Alcy Samuels,4,1401 Alcy Road,38114.0,yes,yes,yes,no,yes,no,yes,no,yes,yes,no,no,no,yes,yes,15.0
+Bickford Park,7,232 Bickford,38107.0,yes,yes,no,no,yes,no,yes,yes,no,yes,yes,yes,no,no,no,6.0
+Chickasaw Park,6,Raines @ Warbonnet,38122.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,8.0
+Avon Park,5,310 N. Avon,38117.0,no,no,9,no,yes,no,yes,no,no,no,no,no,no,yes,yes,4.4
+Tobey Park,5,2599 Avery Ave.,38104.0,yes,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,yes,no,44.3
+Lewis-Davis Park,4,Pendleton @ Deadrick,38114.0,yes,yes,yes,no,no,no,yes,no,no,yes,no,no,no,yes,no,10.0
+Gooch Park,7,1974 Hunter,38108.0,no,yes,no,no,no,no,yes,yes,no,no,yes,yes,no,no,no,10.28
+O'Brien Park,4,Presscott @ Steve,38111.0,yes,no,yes,no,yes,no,yes,yes,no,yes,no,no,no,no,yes,9.0
+Highland Park,5,Highland @ Fairmont,38122.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,2.38
+Pickett Park,7,2555 St. Elmo,38127.0,no,yes,yes,no,yes,no,yes,yes,no,yes,no,yes,no,yes,yes,11.58
+American Way Park,4,2800 Goodlett,38118.0,yes,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,26.0
+Sea Isle Park,5,5220 Sea Isle,38117.0,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,12.4
+Bartlett Meadows,1,5195 Twin Wood,38134.0,no,no,yes,no,yes,no,no,yes,no,yes,no,no,no,no,no,10.0
+Willow Park,5,4971 Willow Rd.,38117.0,yes,yes,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,58.7
+Howze Park,5,Tillman @ Mimosa,38112.0,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,4.87
+Morris Park,7,Poplar @ Orleans,38105.0,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,no,no,yes,6.0
+Gragg Park,7,3732 Jackson Ave.,38108.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,6.65
+Otis Redding Park,6,12th Road @ Honduras,38109.0,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,18.0
+Galloway,5,3815 Walnut Grove,38111.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,104.0
+Jackson Park,7,Pikes Peak Ave.,38108.0,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,8.3
+Grandview Park,7,University Street north of Whitney,38127.0,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,13.5
+Fairgrounds,4,333 S. Hollywood,38104.0,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,145.62
+Martin Luther King Riverside Park,6,Mallory at I-55,38109.0,yes,no,no,no,no,no,yes,yes,no,yes,no,yes,yes,yes,yes,297.32
+Dlugach Park,5,Jackson Ave. @ University,38108.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,1.0
+Will Carruthers,6,3880 Neely Road,38109.0,yes,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,33.8
+Boxtown Park,6,3448 Boxtown Rd.,38109.0,yes,yes,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,38.0
+Lazarov Park,7,Oberle @ Alta Vista,38127.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,3.07
+Falcon Park,6,Falcon @ Raines,38109.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,12.8
+Raines Road,3,Raines @ Hickory Hill,38141.0,yes,no,yes,no,yes,no,yes,yes,no,yes,no,no,no,no,yes,20.0
+Jesse Turner Park,4,1310 S. Bellevue,38106.0,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,yes,no,yes,18.29
+Fulmer Park,7,Old Allen Road,38128.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,19.51
+Easthaven Park,3,Melodywood Drive,38118.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,3.0
+Firestone Park,7,Millington Road @ Robertson,38127.0,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,317.0
+Godwin Park,4,4410 Mallory Avenue,38117.0,yes,no,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,10.0
+Wilson Park,3,Cottonwood @ Clarke,38115.0,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,12.0
+Lanier Park,6,781 Crescent,38116.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,10.17
+Treadwell,5,N. Highland @ Gurnsey,38122.0,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,10.0
+Carver Heights Park,1,3371 Margaretta Rd.,38128.0,no,yes,no,no,yes,no,yes,yes,no,yes,no,no,no,yes,yes,1.0
+Dalstrom Park,6,Shelby & Weaver,38109.0,no,no,yes,no,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes,75.0
+Army Park,6,Second @                         G.E. Patterson,38103.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,1.0
+Ford Park,6,"Ford Rd, @ Levi",38109.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,6.1
+Martyr Park,6,Channel 3 Drive,38126.0,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,8.9
+Pershing Park,7,Corning @ Steele,38127.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,16.0
+Brentwood Park,4,Spottswood @ Josephine,38111.0,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,2.0
+Kennedy Park,1,4577 Raleigh  LaGrange Road,38128.0,yes,no,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,260.57
+Zodiac,3,5226 Zodiac Rd,38118.0,no,no,yes,no,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,23.58
+Tower Park,7,866 Overton Crossing,38127.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,0.38
+Wagner,4,Jonah @ Hugenot,38114.0,yes,yes,yes,no,yes,no,yes,yes,no,yes,no,no,no,no,no,3.07
+Fletcher Creek Park,2,8668 Dexter Rd,38016.0,no,no,yes,no,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,22.24
+Trezevant Park,1,Justine @ Orman,38127.0,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,4.0
