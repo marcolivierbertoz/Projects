@@ -15,8 +15,8 @@ In the appropriate folder you can find the _Jupyter Notebook_ files of them, whe
 
 > The Web App are located on _Heroku_ platform, not all the app could be active at the same time.
 
-|Name|Description|Link|Status|
+|Name|Description|Link|Status|Language|
 |----|----|----|----|
-|First Web App|First web application created with _Streamlit_, this application show the Memphis (Tennesse, US) parks location, based on the user selection|https://first-web-app-streamlit.herokuapp.com/|Active|
-|Star Classifier| A web app, that based on user selection, predict the start type (Example: Red Dwar)|https://star-classifier.herokuapp.com/| Active|
+|First Web App|First web application created with _Streamlit_, this application show the Memphis (Tennesse, US) parks location, based on the user selection|https://first-web-app-streamlit.herokuapp.com/|Active|Python|
+|Star Classifier| A web app, that based on user selection, predict the start type (Example: Red Dwar)|https://star-classifier.herokuapp.com/| Active|Python|
 
