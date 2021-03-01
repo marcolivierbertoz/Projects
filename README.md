@@ -20,3 +20,10 @@ Here there are some web application that have been created.
 |Star Classifier| A web app, that based on user selection, predict the start type (Example: Red Dwar)|https://star-classifier.herokuapp.com/| Active|Python|
 |Mass Shooting USA|Dashboard with the scpe to view the various mass shooting that, unfortunately, happenend in the USA. The Data are from the year 2014 up to February 2021|https://mass-shooting-usa.herokuapp.com/|Active|Python|
 
+
+## Data Science
+Here there are some data science project that I have done.
+
+|Name|Goal|Description|
+|Ski Cancer|Classify two kind of Skin Cancer|This small project, aim to test different classifier for classifiy different skin cancer, there is no tuning of the models.|
+
