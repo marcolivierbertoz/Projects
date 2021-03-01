@@ -25,5 +25,6 @@ Here there are some web application that have been created.
 Here there are some data science project that I have done.
 
 |Name|Goal|Description|
-|Ski Cancer|Classify two kind of Skin Cancer|This small project, aim to test different classifier for classifiy different skin cancer, there is no tuning of the models.|
+|----|----|----|
+|Skin Cancer|Classify two kind of Skin Cancer|This small project, aim to test different classifier for classifiy different skin cancer, there is no tuning of the models.|
 
