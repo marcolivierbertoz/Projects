@@ -14,11 +14,11 @@ Here there are some web application that have been created.
 
 > The Web App are located on _Heroku_ platform, not all the app could be active at the same time.
 
-|Name|Description|Link|Status|Language|
-|----|----|----|----|----|
-|First Web App|First web application created with _Streamlit_, this application show the Memphis (Tennesse, US) parks location, based on the user selection|https://first-web-app-streamlit.herokuapp.com/|Active|Python|
-|Star Classifier| A web app, that based on user selection, predict the start type (Example: Red Dwar)|https://star-classifier.herokuapp.com/| Active|Python|
-|Mass Shooting USA|Dashboard with the scpe to view the various mass shooting that, unfortunately, happenend in the USA. The Data are from the year 2014 up to February 2021|https://mass-shooting-usa.herokuapp.com/|Active|Python|
+|Name|Description|Link|Status|Programming Language|Language|
+|----|----|----|----|----|----|
+|First Web App|First web application created with _Streamlit_, this application show the Memphis (Tennesse, US) parks location, based on the user selection|https://first-web-app-streamlit.herokuapp.com/|Active|Python|English|
+|Star Classifier| A web app, that based on user selection, predict the start type (Example: Red Dwar)|https://star-classifier.herokuapp.com/| Active|Python|English|
+|Mass Shooting USA|Dashboard with the scpe to view the various mass shooting that, unfortunately, happenend in the USA. The Data are from the year 2014 up to February 2021|https://mass-shooting-usa.herokuapp.com/|Active|Python|English|
 
 
 ## Data Science
