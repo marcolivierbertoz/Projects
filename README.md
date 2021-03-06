@@ -19,6 +19,7 @@ Here there are some web application that have been created.
 |First Web App|First web application created with _Streamlit_, this application show the Memphis (Tennesse, US) parks location, based on the user selection|https://first-web-app-streamlit.herokuapp.com/|Active|Python|English|
 |Star Classifier| A web app, that based on user selection, predict the start type (Example: Red Dwar)|https://star-classifier.herokuapp.com/| Active|Python|English|
 |Mass Shooting USA|Dashboard with the scpe to view the various mass shooting that, unfortunately, happenend in the USA. The Data are from the year 2014 up to February 2021|https://mass-shooting-usa.herokuapp.com/|Active|Python|English|
+|Matrix Optimisation|A web app created for a friend to find the shortest path in a matrix|https://matrix-optimisation.herokuapp.com/|Active|Python|Italian|
 
 
 ## Data Science
