@@ -20,7 +20,7 @@ Here there are some web application that have been created.
 |Star Classifier| A web app, that based on user selection, predict the start type (Example: Red Dwar)|https://star-classifier.herokuapp.com/| Active|Python|English|
 |Mass Shooting USA|Dashboard with the scpe to view the various mass shooting that, unfortunately, happenend in the USA. The Data are from the year 2014 up to February 2021|https://mass-shooting-usa.herokuapp.com/|Active|Python|English|
 |Matrix Optimisation|A web app created for a friend to find the shortest path in a matrix|https://matrix-optimisation.herokuapp.com/|Active|Python|Italian|
-|First R Shiny App|First app created with RStudio and Shiny package, based on the Mass Shooting data, it allow to generate a presentaiton in PowerPoint|https://marcolivierbertoz.shinyapps.io/First_App_Mass_Shooting/|Active|English|
+|First R Shiny App|First app created with RStudio and Shiny package, based on the Mass Shooting data, it allow to generate a presentaiton in PowerPoint|https://marcolivierbertoz.shinyapps.io/First_App_Mass_Shooting/|Active|R|English|
 
 
 ## Data Science
